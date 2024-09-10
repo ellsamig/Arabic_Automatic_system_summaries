@@ -1,2 +1,3 @@
 # Arabic_Automatic_system_summaries
-automatic summary from Arabic summarization system
+automatic summaries from Arabic summarization systems
+automatic summaries are built using source documents from multiling 2011 dataset
